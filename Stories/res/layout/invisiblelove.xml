@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <ScrollView 
+         android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+        >
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="18dp"
+        
+        
+        android:text="As an Indian I've seen many lovey dovey bollywood movies and have heard love stories of people in the folklore.For the love stories in the folklore, you never get to know whether the persons involved are real or fictional...and most of the bollywood love stories are banal (barring a few)....But here is a love story (not a story actually) from my state Odisha in India that blows my mind every time I think of it. It actually shows why they say that love can make you do anything.
+
+P.K. Mahanandia was born on 1949 in an untouchable Oriya weaver family, in Kandhapada village of Athmallik Sub-division in the district of Dhenkanal, Orissa, India. He did schooling at Mahendra High School, Athmallik and then joined Visva-Bharati to study art, despite his selection at the art school, it became impossible to pay the fee and he had to return home. He later joined Khallikote Autonomous College, Berhampur to study art and to satisfy his quest for art he joined College of Art, Delhi to study Fine Arts in 1971.
+
+In Delhi he had to face similar problems. The struggle continued where he slept on the streets and used the public toilets. He still remembers those horrible days when he used to roam around particularly near the old coffee house, which is now Palika Bazar . More painful was that there was no one to help him get the basic necessities of life.He would walk barefoot and was virtually homeless till a friend Tariq Beg shared his accommodation with him.Talent never remains hidden and within a few years, Pradyumna became an expert in making portraits. His art became the topic of discussion everywhere, and his name found prominent place in the country's newspaper. Pradyumna could then easily obtain permission from the Delhi High Commission and he began taking his art to the streets, sketching and painting near the Fountain in New Delhi's Connaught Place.'
+
+In 1975 Charlotte, a Royal Noble dynasty in Sweden, a student in London  who had driven all the way to India on a van in 22 days  came to know about the creation of portraits by Pradyumna, in a leading English Newspaper, the Hindustan Times. She came to see the skills of the final-year student of the Delhi College of Art. As the young artist sat down to sketch the pretty lady, he became unsure of his hand. Beauty has its own aura and PK, as Mahanandia is called fondly, was captivated by it. He failed to sketch a faithful portrait but that was immaterial, considering that both fell for each other. “It was love at first sight for me,” Mahanandia recalls. As for the lady, she was attracted to Mahanandia’s simplicity.Perhaps, that changed the entire life of Pradyumna. They decided to marry according to the local traditions and Charlotte was later rediscovered as Charulata and in short Lotta.
+
+Charlotte had to return soon to her country. She had offered him to go along with her but Mahanandia was still to complete his studies. She had proposed to send an air ticket, an offer that Mahanandia declined and, instead, said he would reach Sweden on his own, but the reality of what he had said soon struck him. Not the one to go back on his word, he sold his belongings that came to a shade over Rs.1,200, bought a second-hand bicycle for Rs.60, took his pack of paint and brushes, and set out from Delhi.
+
+It was 1977 and Pradyumna started from Delhi and passed through Amritsar and reached Afghanistan. From there he proceeded to Iran, Turkey, Bulgaria, Yugoslavia, Germany and Austria, Denmark and then Sweden. PK remembers how difficult it was for him to travel in these tough mountainous regions. At the Sweden border, Pradyumna was stopped by the immigration authorities, who wanted to know the purpose of his visit to Sweden. The poor fellow showed them his marriage photographs and letters with Charlotte which the officials refused to believe. The official found it unbelievable that a woman from Swedish Nobility would marry to an ordinary man from India. They feared that the man was lying and therefore they called her. It was only after Charlotte informed that that the said man was her husband that the authorities decided to let him in. It was remarkable that Charlotte had never referred to her family background to Pradyumna which is unlike our stiff traditions where family background and father's business become bigger subjects than the individuals getting married.
+
+For someone whose caste proved a roadblock at every step, Charlotte’s concern for nothing but her emotion left Mahanandia humbled. He apprehended whether or not the woman from the highest ranks of the European society would accept him. To his amazement, she drove 70km from Boras, her hometown, to Gothenburg to claim him as her life’s partner.
+
+Charlotte’s parents were equally effusive in their concern for the man who had cycled all the way to Sweden. They accepted him in their family but not without violating their tradition. “A traditional written law has it that black people are not permitted to stay where nobility stays. This means they had to break the racial rule to make space for me in the family, which they did gleefully for their daughter,” Mahanandia says.
+
+The couple married again in 1979, this time as per customary Swedish rites. Mahanandia, now 64, never thought of returning to the land that had given him nothing but insults. Today, a sought-after person on peace that forms a major part of his work, he is not angry at the degrading treatment he received at the hands of ‘higher castes’ in his village. “Love gave me the pardon power.” This is what he teaches his children – daughter Emelie, 27, and son Siddharth, 24." />
+</ScrollView>
+    
+</LinearLayout>

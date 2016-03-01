@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lovestories"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" android:allowTaskReparenting="true">
+        <activity
+            android:name="com.vinayism.stories.Splash"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Black" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.vinayism.stories.Menu"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.lovestories.MENU" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.vinayism.stories.Setting"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.lovestories.SETTING" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.vinayism.stories.AboutUs"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Dialog"        >    <intent-filter>
+                <action android:name="com.example.lovestories.ABOUTUS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.vinayism.stories.ForAReason"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.FORAREASON" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.vinayism.stories.FARchapter1"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.vinayism.stories.FARchapter2"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.vinayism.stories.FARchapter3"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.vinayism.stories.FARchapter4"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.vinayism.stories.An_IITian_Story"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.vinayism.stories.Love_Is_Invisible"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.vinayism.stories.My_Best_Friend"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.vinayism.stories.A_Love"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.vinayism.stories.GAME"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.vinayism.stories.Notify"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.vinayism.stories.Browse_Stories_Online"
+            android:label="@string/app_name" >
+        </activity>
+         
+        
+    </application>
+
+</manifest>

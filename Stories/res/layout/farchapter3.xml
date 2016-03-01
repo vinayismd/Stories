@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:text="Three full days passed after that fateful encounter, and the little note Matthew had left for me remained tucked away inside my wallet. I certainly wasn’t following any rule on how many days to wait before calling a guy; rather, I was feeling pretty terrible about calling him at ALL, given my still VERY freshly single status. My ex-boyfriend hadn’t even moved out of our house yet, and although I remained fully aware of that note and secretly wanted to call the number on it, I refrained. It just seemed so wrong to be having thoughts about another guy so soon.
+
+
+
+Then, on the afternoon of the fourth day, I went to work and, as I clocked in on the register, I noticed a bright blue, folded sticky note with my name on it taped to the window beside me. I pulled it off and opened it, and there was Matthew’s name and number again, but this time in the handwriting of one the hostesses who answers the phone.
+
+
+I turned to my manager and asked what it was all about. “This guy already gave me his number!” I said, confused. “What is it doing here again?”
+
+
+My manager gravely told me that Matthew had called the restaurant and asked for me the day before, but since I wasn’t there, he simply left his name and number with the hostess. “Is this guy stalking you? Do you want me to call him?” he asked with concern.
+
+
+I laughed and said I didn’t think so. But secretly, I was impressed with Matthew’s tenacity. He was interested, and he wasn’t beating around the bush about it. I liked that.
+
+
+I texted him that afternoon and apologized for not calling. I told him that I’d wanted to, but it had only been several days since my ex and I had broken up and it felt a little irreverent to be calling another guy so soon. I said that I’d call him when I got off work that night.
+
+
+The reply I received went something like this: Ok, little miss four days later! Good thing I remain optimistic, ‘cause it was beginning to look like I wasn’t going to hear from you! 
+
+
+Matthew later told me that those were the most torturous four days of his life. He kept his phone within an arm’s reach and pondered whether or not I was playing hard to get or something. When he didn’t hear from me right away, he had called the restaurant (from California!) in case I had “lost his number.” Patience is not this man’s greatest virtue; I can definitely attest to that now!
+
+
+I don’t want to skim over anything, but I also don’t want to drag this out for weeks. So let’s just say that I called Matthew that evening, and by the end of about a one hour conversation, I knew I had just met the man who would one day be my husband. I called my best friend the next day and told her so, which, naturally, was met with a somewhat apprehensive “umm… ok?” 
+
+
+Truth be told, the relationship encountered quite a bit of trepidation from my friends and family, and understandably so. Everything happened so fast and so furious and so SOON after the end of my previous relationship.
+
+
+Matthew was almost seven years older than me, had a successful career in insurance and financial services, lived states away, and still seemed dead set on ME. People didn’t trust him, and even I had my moments of doubt as things moved along at lightning speed.
+
+
+During the week after our first phone call, we talked for hours every night. I learned that he was a huge fan of the book The Secret, just like I was, and he told me that he, too, tried to live his life by the principles of the law of attraction. Coincidence? I think not.
+
+
+He also told me he had moved his trip back to Texas up a few days so he could spend more time with me, and our first date was scheduled for less than two weeks after our initial meeting. I remember getting a text from him just a couple days before he flew back down to Texas, and it said that he “couldn’t wait to have me in his arms.” I was a little alarmed by this, given that we hadn’t even had our first date yet, but I sort of loved it all at once. It was nice to feel wanted without that veil of pretense and cautious, “acceptable” behavior. Matthew is one of the few people in this world who throws themselves shamelessly and without hesitation at whatever they desire.
+
+
+So we had our first date. I wore a little black dress with heels and a bright green sweater, and he wore jeans and a black button up shirt. We met at Starbucks, we hugged like old friends, he led me to the car he’d borrowed from his dad, and he opened my door for me like a true gentleman. He started the car and a CD began to play – all my favorite songs, one after another. I demanded that he admit he’d stalked my Facebook and made a CD from all my listed favorite artists, but he denies it to this day. Either he’s lying, or we just have identical taste in music. Either way, it was perfect.
+
+
+And that evening began a week of “first dates.” We had dinner together several times, went to the movies, visited the nearby Natural Bridge Caverns and Natural Bridge Wildlife Ranch in San Antonio, spent his birthday with his parents and grandparents, and then said a very bittersweet goodbye before he headed back to California.
+
+
+I think it was on the third date that week that I really fell in love. We were deep under the ground in the chilly caverns and listening to the tour guide as she lectured on stalactites and stalagmites, when Matthew wrapped his arms around me from behind and just held me there as we stood. I can’t explain it, but it just felt… RIGHT. 
+
+
+A few days after he went home to California, on Valentine’s Day 2009, I received a very special delivery while I was at work – a gift that would turn out to be one of the most amazing and romantic things I’ve ever been given." >
+        </TextView>
+    </ScrollView>
+
+</LinearLayout>

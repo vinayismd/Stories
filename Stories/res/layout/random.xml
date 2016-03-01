@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+     android:id="@+id/layout">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="46dp"
+        android:textSize="18dp"
+        android:text="Checkout!! How Much You Are In LOve..." />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Enter Your Name" >
+        
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/generate"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Love Percentage" />
+
+    <TextView
+        android:id="@+id/generatenumber"
+        android:layout_width="98dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="69dp" ></TextView>
+    
+    
+        
+
+</LinearLayout>

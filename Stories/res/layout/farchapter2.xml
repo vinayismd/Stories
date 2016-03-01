@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:text="It was a Saturday that the ex and I had broken up, and by Monday morning, though I was by NO means “over” the breakup, I was feeling ever so slightly hopeful; or at least looking forward to a fun breakfast with a friend.
+
+
+
+One of my male coworkers was (is) like a brother to me; we were hired on at the restaurant around the same time, and over the six and a half years until this point in the story, he and I had become close and occasionally planned a breakfast outing to catch up on the events of each other’s lives. A week prior to this aforementioned Monday, he and I had planned to meet for breakfast at the restaurant where we worked – only I got called into work when another waitress went home sick. I didn’t know it at the time, but this was a game-changing move. One of those moments where the Universe intervenes because that particular event wasn’t in keeping with the greater plan.
+
+
+Truth be told, if I had met my friend for breakfast on that previously planned date, or if I had shown up to the restaurant even a single moment later on the day we DID end up meeting, Matthew and I would have never met. My life would be drastically different right now. Funny how the smallest little decisions and changes of course can alter the entire plot of your life.
+
+
+So on that Monday morning, January 19 of 2009, I woke up, got showered and dressed, and headed out to a 9:00 AM breakfast with my friend. Like usual, I was running a couple minutes late.
+
+
+Once I arrived, I parked my car and walked across the lot and into the little diner where my friend Chris was already waiting in the line to be seated. We chatted for maybe thirty seconds before the outside door of the restaurant swung open and, to my surprise, there was Mrs. D! She seemed excited to see me and exclaimed, “Jenni! I know this might seem strange, and I know you have a boyfriend, but my son is here in town—we were just leaving, and I saw you walking up—I’d love for you to come out and meet him!”
+
+
+I gave her a hug and laughed, saying, “Well, actually, me and my boyfriend just broke up, so it’s ok.”
+
+
+I thought I’d humor her. Many proud mamas had bragged on their sons to me before, and if or when I ever did end up meeting these “handsome” princes, things were usually awkward and anything but a match made in heaven.
+
+
+Mrs. D led me just outside the little foyer where we’d been waiting. Her car was a few feet away, and the driver’s side door was still open where she had gotten out. I peered into the car and there he was: the infamous son.
+
+
+I’d be lying if I said I heard a choir of angels singing, or if I said a bright light shone upon him like some supernatural vision from God, but there truly was instant attraction. He reached over from the passenger side seat to shake my hand and said, “Hey! Nice to finally meet you!”
+
+
+He had the bluest eyes I’d ever seen, and from then on I was in somewhat of a stupor, which is not unusual for me when faced with awkward social situations (especially involving shockingly attractive members of the opposite sex).
+
+
+I said something along the lines of, “It’s really nice to meet you too! I’ve heard a lot of good things about you, and I just love your Mom!”
+
+
+Mrs. D mentioned then that Matthew was going home to California the next morning but would be back in a couple weeks. I replied saying maybe we would see each other again when he returned, and the conversation wrapped up.
+
+
+But in typical Jenni fashion, I had to say at least one ridiculous thing before going along my merry way, so just as I turned around to walk back into the diner, I decided to poke my head in the car one more time and say, “oh, excuse me SIR? What did you say your name was again? I already forgot!” Yes, I called him SIR. And as soon as that word flew off my tongue I was mortified with myself. Why the !@#$ did I just call him “sir?” What an idiot!
+
+
+He just laughed and said “Matthew.”
+
+
+“Ok, thanks!” I replied. “Maybe I’ll see you again soon!”
+
+
+They left, and I went back into the restaurant where my friend was waiting.
+
+
+And just a couple moments later we were inside and seated at our table near the back of the little one room diner.
+
+
+We ordered our breakfast and, after a few more minutes, the hostess walked up to our table and slipped me a little note. “That guy just came back in and told me to give this to you. He saw you sitting with Chris and didn’t want to be rude and interrupt,” she told me.
+
+
+My heart skipped a beat. I unfolded the little note. Matthew had written his name and phone number and the message: Be back in two weeks. Would be great to hear from you!
+
+
+I was shaking. I can’t explain it, but I felt like I was dreaming. My mind was racing with thoughts of how completely serendipitous this encounter was, but how completely awful it felt to be entertaining thoughts of another relationship so soon after my last one ended.
+
+
+One of the waitresses at the restaurant, a good friend and mother-type figure to me, stopped by our table and read the note. She had seen the whole thing unfold, and the way Matthew had come back in and stared back at me as I chatted obliviously with my friend. With a knowing look on her face, she said “Jenni, it’s a God thing.”
+
+
+And she turned out to be very, very right.
+
+
+Mrs. D and Matthew both corroborate the story that, when they had left the restaurant after our initial meeting, Matthew matter of factly told his mother that I was the one. That he knew it. And she said she had always known it. She told him what I said about my boyfriend and I breaking up, and Matthew demanded she turn around. They came back, he scribbled his note on that little piece of paper, and he went back in to find me.
+
+
+And I COULD just say “the rest is history,” but that really wouldn’t be doing the story justice. The part that comes next is half the fun! I suppose that sometimes fate might whisper, but in our case, it screamed." >
+        </TextView>
+    </ScrollView>
+
+</LinearLayout>

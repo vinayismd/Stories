@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="app_name">LoveStories</string>
+   <string name="action_settings">Settings</string>
+   <string name="LoveStories">Love Stories</string>
+  
+   
+   <string name="text1">Text to Speech</string>
+   <string name="write">Write Text</string>
+  
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<ScrollView 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    
+    >
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="18dp"
+        android:text="I met her ten years ago, today.
+
+She is a confident adrenaline junky and I was a quiet homebody, we were a couple that seems completely ridiculous for each other from the outside but completely right everywhere else.
+
+When we met every detail of it felt completely right. The conversations flowed so smoothly.. We talked about her past and mine, shared a few laughs and couldn't believe what we saw in each other.
+
+As I walked her to her car I was steadily thinking that this is the woman for me and that I need to have her in my life.. No matter what. Later I found out that she was thinking the exact same thing.
+
+We continued to see each other but we grew too close too quickly and it made things become impossible, we barely knew one another and she just wasnt ready for a relationship and being with me only made her want one.
+
+Focusing completely on creating a relationship at the wrong time rather than living in the moment and just having fun. We both had to back up.
+
+Months went by till she reached out to me with a phone call asking if I would meet her for lunch. I was still completely crazy about every detail of her when we met but this time around we were a bit more cautious of one another. We were also still dating around at the time but the feeling still completely overwhelmed us. The question, Why does it seem like life is telling me to be with this person?? Is this the person for me?? How can I be sure??
+
+This time around, we were much more loose and became MUCH closer but it still just wasn't the right time. We tried to push it, which led to a falling out that hurt us both. We believed that we might just be two who cannot feel right jumping into a relationship but also cannot be purely friends because there are ALWAYS feelings involved.
+
+When I lost her, it devastated me but she always gave me new ideas of ways to enjoy life. So I became active. I started working out more, biking, playing football/basketball/softball, boating, I even started to enjoy wakeboarding! Since I thought she was gone forever, I did these things for myself and unknowingly became an adrenaline junky myself!!
+
+Months of this went by and she called me out of the blue, wondering how I've been doing. We talked for hours, as we always could. She couldn't believe when I asked her to come out on the boat with me, instead of lunch to meet up. Adventure after adventure, we realized how perfect we've always been for each other. We completely fell in love this time and never stopped having adventures. Two years later, she made me the happiest man alive saying yes to be my wife. It's unbelievable to me how life can bring people together. We've been traveling the world, laughing, loving and experiencing everything the world has to offer. I found my best friend, my soulmate.
+
+Remember to keep their eyes/heart open, because life will always let you know when the possibility arises. God, life, the universe.. Something pushed us together and we never gave up, only to find out that there's always been a plan behind it." />
+    
+    </ScrollView>
+
+</LinearLayout>

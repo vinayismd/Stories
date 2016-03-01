@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:textSize="18dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" It is an incident of our IIT days when one of my roommates fell in love with the most glamorous and dazzling girl of our batch. I was not really against their relationship but the only doubt I had was that they were quite opposite personalities. My friend was an introvert, shy person whereas the girl was very jovial and extrovert. Also may be because of her light-hearted nature I felt that she was not very serious about their relationship. But the fact that mattered was that they seemed to be quite compatible. Then I got placed in the USA and took my family along. My friend got a placement in India. Though for some years we kept in touch but as time passed by, we got more and more buried in our chores and our interaction was reduced to almost nil. After a long span of 9 years I got the opportunity of making a business trip to India. I could not dare to miss the golden opportunity of catching up with my friends. I contacted many of them through phone or by FB. I tried to reach out to my roommate too but did not get any response from his end. When I met my friends I got the sad news of his death in the Delhi blast at Karol Bagh around 5 years back. I felt shattered but the fact that bothered me all the more was that I knew he was the only child of his parents.
+I searched for his address and went to meet them. The environment was very congenial and calm. Two old men and two old women were having some decent talk along with their evening snacks. I introduced myself and they welcomed me with a lot of love. Then I was served teat and they asked me join them. Seeing their happy faces I did not have the courage to ask them how their lives had been over the past few years. I rather preferred to remain quiet and was almost about to leave when the gates opened and my roommate’s girlfriend entered. I murmured and thought that finally they both had married. She was obviously not expecting me and so was surprised. She welcomed me asked me to stay for dinner. After her repeated requests I agreed and in fact I too wanted to talk to her. It took a lot of courage to ask her how her life was going. She gave a quite smile. Then there was silence. I did not know what to speak and whether it would be appropriate to say anything. After a few moments she broke the silence,” we were happy, very happy together and were about to get married when it all happened. I was devastated but then i looked at these 4 people (his and her parents) and decided that i would have to move on. I bought a new place, brought in all four together and are now living happily.” she said. When i do something for them i know Shubhu smiles and it’s his happiness that i always want. I asked her how she was managing to which she replied love is not only about his physical presence in my life, it is about celebrating togetherness and that we do each day with our parents and I know somewhere he is also around here watching our every move, keeping us protected.  Then she added, wish I had his child. I was numb for few minutes. It was now that I realized the strength of their love. In fact, I started feeling really bad for my friend that how lucky he was to have found this girl who is selflessly busy playing her role in their relation without the society bound order of marriage etc. I felt like saluting the girl’s immense strength and pure love that their relation stands on. I got to spend some time in my friend’s room. I saw a diary lying on the table and I could not stop myself from opening that diary. It was my friend’s diary of college days. At the last page I saw a piece which really broke me:
+“Duayen yun khud se kar li hai maine, Mohabbat hi ibadat kar li hai maine,
+Unhe hi sochti raheti hoon sab bhar, Mahek unki dilon me bhar li hai maine,
+Har ek chehre me unko dekhti hoon, Yun duniya se mohabbat kar li hai maine,
+Nahi hai apne dil pe akhtiyaar unka, Tha dil unka hukumat kar li hai maine,
+Basa hai ankhon me ye noor khwabon ka, Zindagi khwab si hi kar li hai maine
+
+
+
+These were the lines written by this girl. I really felt sorry for this girl. How foolish of me to have doubted on such a pure and effortless relation! She said she had enough memories to last for a lifetime. As quoted by her, “log aksar humse humari khushmijaji ka karan pucha karte hai to hum bhi palat kat kar kahte hai, huzoor apki aindagi mein yaadein hai par humari to har ek yaad hi jindagi hai”.
+" />
+    </ScrollView>
+
+</LinearLayout>

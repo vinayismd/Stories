@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:textSize="18dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" A passionate love story encountered in the soil of Kerala. Theirs was a match made in heaven. On earth, however, their families, divided by faith, kept them apart. But the incredible love story of Kanchanamala and Moideen transcended societal opposition, more than half a century of physical separation and even death to soar into a sphere of sublimity that no human intervention can ever sully.
+
+Kanchana and Moideen belonged to two well regarded families of Mukkam, near Kozhikode in north Kerala. The girl was a Hindu, the boy a Muslim. Their parents were very friendly with each other and initially allowed the two youngsters to meet socially pretty often. 
+
+Kanchana’s bonding with Moideen grew stronger by the day. Ever since they began going to the same school after the girl got to Standard 6, the twosome met on a daily basis. 
+
+As childhood gave way to adolescence, Moideen and Kanchana felt the first stirrings of romantic love in their hearts. But even as they dreamed of a life of happiness together, the religious divide that separated them grew wider than they could have imagined. 
+
+Their fathers, despite being old friends, opposed a marital alliance between the two families. Kanchana was ordered by her dad to cut short her affair with Moideen and manage her brother’s tile factory. The girl had no option.
+
+Yet Moideen and Kanchana nursed hopes of a secret betrothal. But fate intervened each time they were ready to take the plunge. First a series of weddings in the two families, then a string of child births and finally a rash of deaths put paid to their plans. Kanchana’s mother fell ill and became bed-ridden. And then her father suffered a heart attack.
+
+A disheartened Moideen turned to social work among the poor and needy. His father was a freedom fighter. He fought the panchayat election as an independent candidate and won. He went on to become panchayat president. Although Moideen’s father had a clean image, his panchayat colleagues were alleged to be corrupt.
+
+Moideen, a fine orator who had by now drifted away from his home due to the affair with Kanchana, addressed public meetings against the corrupt panchayat members. This enraged his father, who gave vent to his anger by beating up his wife. Her brothers took her home. Moideen’s father remarried.
+
+Matters came to a head when Moideen was stabbed by his father in public. The young man could have overpowered his father but he chose not to retaliate. A profusely bleeding Moideen was saved in the nick of time by an aunt who used her head-cover to bandage his wound. In his statement to the police, Moideen stated that the gash had been caused by a fall. His father went scot-free.
+
+Moideen was a man of many parts. He wrote stories that were published by various Malayalam periodicals. He worked as the sports correspondent of Mathrubhumi daily. He also produced two Malayalam movies, Karutha Ponnu and Nizhale Nee Sakshi. Seema, a top-ranked actress of the late 1970s and 1980s, made her debut in the second film. He was a well-known footballer too.
+
+Through all this, Moideen continued his social work. He threw his hat in the electoral ring as well. He defeated the CPM leader and sitting Mukkam panchayat vice-president. But unfortunately for his supporters, his political career was destined to be short-lived.
+
+On July 15, 1982, while returning from his mother’s ancestral house, he had to cross the river Irumizhinjippuzha in a country boat. The boat capsized. Moideen saved many lives before he tragically drowned in the river. He was only 44.
+
+Kanchana’s life has never been the same since. Her family sought to arrange a marriage for her but she made a clean breast of her undying love for the deceased Moideen. The prospective groom happened to be a broad-minded gentleman. He readily backed off. 
+
+Kanchana once tried to commit suicide but failed. Then she decided to starve herself to death. She fainted and had to be hospitalised. She threw away the glucose tubes. She hid her daily supply of sleeping pills under the pillows. The idea was to swallow them when they added up to 30 or more.
+
+As Kanchana steadfastly refused food, her family brought Moideen’s mother to her bedside. She managed to elicit a promise from Kanchana that she would not kill herself and devote her life to carrying forward Moideen’s unfinished social mission. 
+
+She insisted on breaking her fast by drinking water from the river in which Moideen had drowned. Her brothers fulfilled that wish. Since that turning point in her life, Kanchana has been a transformed woman. Having vowed that she would never marry, she immersed herself in active social service.
+She set up a Seva Mandiram for the destitute. Even though it has not been properly constructed yet and lacks facilities, she and her colleagues look after a pair of 80-year-old twin sisters abandoned by their family.
+
+That apart, Kanchana, who is now 70, serves as a keen volunteer for numerous organisations that work for the uplift of women. In all of Kozhikode district, Kanchanamala is a well-known figure although not everybody is aware of her amazing back story.
+
+The memory of Moideen is still a constant inspiration for Kanchana. But two dark days remain etched in her mind – February 28, 1965, when her uncle caned her liaison with Moideen, and July 15, 1982, when Moideen drowned. 
+
+The matronly Kanchana now lives with her nephew and his family. Moideen’s family, too, welcomes her with open arms on all social occasions. And she believes that the man she loved, lost and ‘regained’ still watches over her.
+
+Her words touched my heart - I went through hell living on hope for the first 25 years after they found out about us, for him. And I lived on for the next 25 years, because of him. I will still go through anything for him, again,' says Kanchana. Like the Iruvanji'.
+
+As time has passed by their love story still remains eternal!"/>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+   
+
+    
+
+    
+    
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tvreamme"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:text="Our love story started long before Matthew and I ever actually met.
+
+And when you think about it, most love stories start that way. Every moment leading up to the one in which you meet your future husband or wife somehow shapes you and prepares you for that person you were fated for. Any previous heartbreaks or dark days or lonely nights can be crucially important in the grand scheme of things—sometimes we need to know what something feels like when it’s wrong before we can ever really know it when another thing is RIGHT.
+
+
+So that’s why I need to start the story with a little bit of background. The whole “girl meets boy, boy and girl fall in love, boy and girl get married” model is a little too simplistic for my needs. You people want details, don&apos;t you? Of course you do.
+
+
+When I was 18 years old and working as a waitress at a little family restaurant, I met a guy who was 10 years older than me. He was the one who came before Matthew. We dated for three and half years, and even lived together during the last year and half of that relationship. We moved into a tiny little house and owned Gracie and Cooper together and our relationship was never a terrible one. He was a good guy, I was a good girl, and we really did love each other.
+
+
+But for every moment of those three and a half years, I had a nagging, itching, aching feeling that he would never be the right one for me. Despite his great heart, he lacked ambition and drive and handled his finances very poorly and, at the heart of it all, was very insecure despite being a bright and attractive guy. I understood him, though. I understood that his family had never prepared him for LIFE, and the poor decisions he had made as a younger man had him caught in a sticky web and a hole he just couldn’t seem to dig himself out of.
+
+
+As the years went by, he could give me less and less of what I needed. Things became strained between us. I was a terrible nag, and I see that now. But the problem was that there were just too many things about him that I wanted to change. And as I began to realize that I could never change him and shouldn’t have to, I struggled SO much with what the right thing to do was. It ate away at me day and night, because I honestly couldn’t imagine my life without him. And being alone TERRIFIED me.
+
+
+Somewhere during all this, I read the book The Secret which is all about the law of attraction. I really, really believed in what it said. It inspired me. I realized that I had not arranged my life in a way that allowed for all the things I so desired. I hate to skim over this because it’s so important, but let’s just say that I KNEW I had to decide what I wanted my future to look like and start taking active steps towards attracting that future. And staying in my current relationship at the time was a major roadblock. I knew in my heart that if I stayed where I was, life would always be a struggle. 
+
+
+So one day the breakup finally happened. We talked and cried for hours and finally decided that we could never truly work. He decided to move out and let me stay in the house and keep the dogs because, on his income alone, he couldn’t afford to live there (I made enough waiting tables to cover the bills if pennies were tightly pinched).
+
+
+I can honestly say that the 48 hours after that break up were the toughest of all my life. I ugly-cried those kind of tears that come from somewhere inside you didn’t even know existed—a place of fear and sudden awareness that you are completely alone.
+
+
+And that’s the place I was in when I met Matthew. We met a mere 48 hours after the ex and I called it quits, which could either be considered really terrible timing or really great timing. I choose to believe the timing was perfect.
+
+
+But let’s back up again for just a minute.
+
+
+Remember how I was working at that little restaurant? Well, for a couple of years I’d been waiting on my future in-laws without even knowing it. We’ll just call them Mr. and Mrs. D for our purposes here today.
+
+
+They were an odd couple. Mrs. D was a beautiful blonde and friendly as can be, and Mr. D was quiet, reserved, and hard to read. I really enjoyed waiting on them, though, and I found it amusing when Mrs. D would occasionally mention their son in California and how perfect he and I would be for each other. She mentioned this to me on at least two or three occasions, but I always laughed and just politely reminded her that I had a boyfriend. I came to find out later that, in actuality, Mrs. D talked a whole lot more about Matthew and I one day meeting than I ever knew at the time; Mr. D now says he had to hear about it every single time they came to the restaurant, and Matthew, when he was in town, would always go to eat there and would hear about me then, too. But for some reason, I was never working when Matthew happened to stop in with his parents, and our paths never crossed.
+
+
+But then one day, on January 19, 2009, our paths DID cross. And to make it all the more strange, I wasn’t even working that day—the encounter was, TRULY, by chance.
+
+
+Little did I know when I woke up that morning, Martin Luther King Day and a university holiday, that my life was about to be turned upside down." />
+    </ScrollView>
+
+</LinearLayout>
